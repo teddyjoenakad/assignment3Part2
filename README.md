@@ -1,11 +1,11 @@
 # assignment3Part2
 
-index.html --> /var/www/my-site directory
-hello-server (binary file) --> /var/www/backend
-hello.conf --> /etc/nginx/sites-available
-hello.conf (symbolic link) --> /etc/nginx/sites-enabled
-backend.log --> /var/log/hello-server
-hello-sever.service --> /etc/systemd/system
+- index.html --> /var/www/my-site directory
+- hello-server (binary file) --> /var/www/backend
+- hello.conf --> /etc/nginx/sites-available
+- hello.conf (symbolic link) --> /etc/nginx/sites-enabled
+- backend.log --> /var/log/hello-server
+- hello-sever.service --> /etc/systemd/system
 
 ### Cloud config script
 users:
