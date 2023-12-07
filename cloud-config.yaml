@@ -7,7 +7,7 @@ users:
     shell: /bin/bash
     sudo: ['ALL=(ALL) NOPASSWD:ALL']
     ssh-authorized-keys:
-      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ4uVm9xjPleWFUbDlorainmEickRKyKYI4Maa+GNSCU tnakad@my.bcit.ca
+      - ssh-ed58514 AAAAC3NzaC1lZDI1NTE5AAAAIJ44A7F8D2E1BC093A54A7F8D2E1BC093A5 myemail@gmail.com
 
 packages:
   - ripgrep
